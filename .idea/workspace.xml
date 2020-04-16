@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c33a66eb-5114-40f1-93e6-ef810c70e4b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayFix34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestArrayFix34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MakeBricks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestMakeBricks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="selenium-app.iws" />
@@ -37,11 +36,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestArrayFix34.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+            <state relative-caret-position="225">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MakeBricks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="13" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestMakeBricks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -62,6 +79,7 @@
       <find>removeDuplicateCharactersInRow</find>
       <find>CityWithPopulation</find>
       <find>country</find>
+      <find>wall</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -86,6 +104,8 @@
         <option value="$PROJECT_DIR$/src/test/java/TestStartWord.java" />
         <option value="$PROJECT_DIR$/src/main/java/ArrayFix34.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestArrayFix34.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MakeBricks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestMakeBricks.java" />
       </list>
     </option>
   </component>
@@ -189,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestArrayFix34">
+  <component name="RunManager" selected="JUnit.TestMakeBricks.testMakeBricksAll">
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -245,11 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMapBully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMakeBricks.testMakeBricksAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium-app" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestMapBully" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="TestMakeBricks" />
+      <option name="METHOD_NAME" value="testMakeBricksAll" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
@@ -304,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestMakeBricks.testMakeBricksAll" />
         <item itemvalue="JUnit.TestArrayFix34" />
         <item itemvalue="JUnit.TestArrayFix34.TestArrayFix34BasedOnProvidedData1" />
         <item itemvalue="JUnit.All in selenium-app" />
         <item itemvalue="JUnit.TestWordCount" />
-        <item itemvalue="JUnit.TestMapBully" />
       </list>
     </recent_temporary>
   </component>
@@ -329,9 +350,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_selenium-app - 2020.04.16 at 15h 24m 42s.xml">
-      <configuration name="All in selenium-app" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestArrayFix34_TestArrayFix34BasedOnProvidedData1 - 2020.04.16 at 16h 19m 01s.xml">
       <configuration name="TestArrayFix34.TestArrayFix34BasedOnProvidedData1" configurationId="JUnit" />
     </history-entry>
@@ -358,6 +376,9 @@
     </history-entry>
     <history-entry file="TestArrayFix34 - 2020.04.16 at 16h 26m 15s.xml">
       <configuration name="TestArrayFix34" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMakeBricks_testMakeBricksAll - 2020.04.16 at 16h 32m 30s.xml">
+      <configuration name="TestMakeBricks.testMakeBricksAll" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -391,7 +412,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32871014" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32871014" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32795697" />
       <window_info anchor="bottom" id="IDEtalk Messages" order="8" />
       <window_info anchor="bottom" id="Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32795697" />
@@ -602,10 +623,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MakeBricks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestArrayFix34.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestMakeBricks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
