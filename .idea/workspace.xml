@@ -2,9 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c33a66eb-5114-40f1-93e6-ef810c70e4b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/TestWordCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/configuration/TestsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/configuration/properties/PropertiesLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/configuration/properties/Property.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/configuration/properties/PropertyFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/exceptions/TestsConfigurationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/utils/TimeUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/webtestsbase/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/webtestsbase/Browser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/webtestsbase/CapabilitiesGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/test/webtestsbase/WebDriverFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/TestWordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/junit/rules/ScreenShotOnFailRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/junit/tests/PageObjectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/junit/tests/SimpleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/pages/YouTubePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/pages/YouTubeSearchResultsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/testng/listeners/ScreenShotOnFailListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/testng/tests/PageObjectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/testng/tests/SimpleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/test/configuration/TestsConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/test/configuration/properties/PropertiesLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/test/configuration/properties/Property.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/test/configuration/properties/PropertyFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/test/exceptions/TestsConfigurationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/test/utils/TimeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/test/webtestsbase/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/test/webtestsbase/Browser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/test/webtestsbase/CapabilitiesGenerator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/test/webtestsbase/CapabilitiesGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/test/webtestsbase/WebDriverFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/selenium/test/webtestsbase/WebDriverFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestWordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/test/junit/rules/ScreenShotOnFailRule$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/test/junit/rules/ScreenShotOnFailRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/test/junit/tests/PageObjectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/test/junit/tests/SimpleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/test/pages/YouTubePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/test/pages/YouTubeSearchResultsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/test/testng/listeners/ScreenShotOnFailListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/test/testng/tests/PageObjectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/test/testng/tests/SimpleTest.class" beforeDir="false" />
     </list>
     <ignored path="selenium-app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,20 +66,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/TestWordCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/WordCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -145,14 +175,6 @@
               <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -161,14 +183,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestWordCount">
+  <component name="RunManager" selected="JUnit.All in selenium-app">
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -221,11 +235,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMapBully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in selenium-app" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium-app" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestMapBully" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
@@ -234,12 +247,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMapBully.startWordFirstTestsUsingSplitAndConcat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMapBully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium-app" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestMapBully" />
-      <option name="METHOD_NAME" value="startWordFirstTestsUsingSplitAndConcat" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
@@ -322,11 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in selenium-app" />
         <item itemvalue="JUnit.TestWordCount" />
         <item itemvalue="JUnit.TestMapBully" />
         <item itemvalue="JUnit.TestMapBully.testmapFirstBully" />
         <item itemvalue="JUnit.TestMapBully.testmapBully" />
-        <item itemvalue="JUnit.TestMapBully.startWordFirstTestsUsingSplitAndConcat" />
       </list>
     </recent_temporary>
   </component>
@@ -347,15 +359,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCityWithPopulation - 2020.04.16 at 13h 45m 01s.xml">
-      <configuration name="TestCityWithPopulation" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestMapBully_startWordFirstTestsUsingSplitAndConcat - 2020.04.16 at 14h 42m 08s.xml">
-      <configuration name="TestMapBully.startWordFirstTestsUsingSplitAndConcat" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestMapBully_testmapBully - 2020.04.16 at 14h 45m 10s.xml">
-      <configuration name="TestMapBully.testmapBully" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestMapBully_testmapBully - 2020.04.16 at 14h 46m 21s.xml">
       <configuration name="TestMapBully.testmapBully" configurationId="JUnit" />
     </history-entry>
@@ -377,6 +380,15 @@
     <history-entry file="TestWordCount - 2020.04.16 at 15h 00m 37s.xml">
       <configuration name="TestWordCount" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestWordCount - 2020.04.16 at 15h 04m 14s.xml">
+      <configuration name="TestWordCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_selenium-app - 2020.04.16 at 15h 22m 08s.xml">
+      <configuration name="All in selenium-app" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_selenium-app - 2020.04.16 at 15h 24m 42s.xml">
+      <configuration name="All in selenium-app" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="61000" />
@@ -396,7 +408,7 @@
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20934358" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20934358" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
@@ -404,7 +416,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32795697" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32795697" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32795697" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -453,18 +465,10 @@
     <SUITE FILE_PATH="coverage/selenium_app$TestCityWithPopulation.ic" NAME="TestCityWithPopulation Coverage Results" MODIFIED="1587033493098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/configuration/properties/PropertiesLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/configuration/TestsConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -551,13 +555,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/TestWordCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -565,10 +562,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/TestWordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/testng/listeners/ScreenShotOnFailListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/testng/tests/PageObjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/configuration/properties/PropertiesLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/WordCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
