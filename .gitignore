@@ -1,0 +1,4 @@
+# Ignore irelevant files & folders
+*.idea/
+/target/
+/selenium-app.iml

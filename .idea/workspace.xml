@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c33a66eb-5114-40f1-93e6-ef810c70e4b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/MakeBricks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestMakeBricks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="selenium-app.iws" />
@@ -39,10 +37,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestArrayFix34.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="360">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-275" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/selenium-app.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -54,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestMakeBricks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -106,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/test/java/TestArrayFix34.java" />
         <option value="$PROJECT_DIR$/src/main/java/MakeBricks.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestMakeBricks.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -119,11 +139,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="67" />
-    <option name="y" value="23" />
-    <option name="width" value="1733" />
-    <option name="height" value="1022" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -131,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,42 +157,12 @@
               <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,34 +382,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="23" width="1733" height="1022" extended-state="0" />
-    <editor active="true" />
+    <frame x="1920" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20934358" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20340788" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32795697" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32795697" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32795697" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32871014" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32795697" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32772276" />
       <window_info anchor="bottom" id="IDEtalk Messages" order="8" />
       <window_info anchor="bottom" id="Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32795697" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3019802" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="12" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.1898285" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32795697" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -430,6 +413,10 @@
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="IDEtalk" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" visible="true" weight="0.1898285" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -456,28 +443,9 @@
     <SUITE FILE_PATH="coverage/selenium_app$TestCityWithPopulation.ic" NAME="TestCityWithPopulation Coverage Results" MODIFIED="1587033493098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/configuration/TestsConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/testng/tests/SimpleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Enums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/configuration/TestsConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/testng/tests/SimpleTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Enums.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/TestConCat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -490,11 +458,6 @@
         <state relative-caret-position="255">
           <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-259" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ConCat.java">
@@ -518,34 +481,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/TestWordCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/testng/listeners/ScreenShotOnFailListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/testng/tests/PageObjectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/configuration/properties/PropertiesLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/TestWordCount.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/testng/listeners/ScreenShotOnFailListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/testng/tests/PageObjectTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/configuration/properties/PropertiesLoader.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -588,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayFix34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -623,6 +555,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayFix34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MakeBricks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -630,19 +569,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestArrayFix34.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestMakeBricks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestMakeBricks.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestArrayFix34.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="360">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium-app.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
