@@ -18,20 +18,26 @@ public class CityWithPopulation {
     /*
      * Method that prints the citiy list from top to bottom
      */
-    public void printCitiesFromTopBottom() {
+    public ArrayList<Country>  printAndGetCitiesFromTopBottom() {
         System.out.println("\nTop - Bottom print:");
+        ArrayList<Country> topToBottomCities = new ArrayList<Country>();
         for(int i = 0; i < cities.size(); i++) {
             System.out.println(cities.get(i).name() + "in " + cities.get(i).getCity() + " has " + cities.get(i).getPopulation());
+            topToBottomCities.add(cities.get(i));
         }
+        return topToBottomCities;
     }
 
     /*
      * Method that prints the citiy list from bottom to top (reverse list)
      */
-    public void printCitiesFromBottomTop() {
+    public ArrayList<Country>  printAndGetCitiesFromBottomTop() {
         System.out.println("\nBottom - Top print:");
+        ArrayList<Country> bottomToTopCities = new ArrayList<Country>();
         for(int i = cities.size()-1; i>= 0; i--) {
             System.out.println(cities.get(i).name() + "in " + cities.get(i).getCity() + " has " + cities.get(i).getPopulation());
+            bottomToTopCities.add(cities.get(i));
         }
+        return bottomToTopCities;
     }
 }

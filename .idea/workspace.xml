@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="c33a66eb-5114-40f1-93e6-ef810c70e4b9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CityWithPopulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CityWithPopulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCityWithPopulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCityWithPopulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CityWithPopulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CityWithPopulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/selenium-app.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/selenium-app.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestCityWithPopulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestCityWithPopulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestMakeBricks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestMakeBricks.class" afterDir="false" />
     </list>
     <ignored path="selenium-app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,8 +24,7 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="selenium-app" />
@@ -26,58 +32,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ArrayFix34.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CityWithPopulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="208">
+              <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestArrayFix34.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+            <state relative-caret-position="210">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Country.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            <state relative-caret-position="383">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="25" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-275" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/selenium-app.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MakeBricks.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestCityWithPopulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="13" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestMakeBricks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="420">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -99,6 +84,7 @@
       <find>CityWithPopulation</find>
       <find>country</find>
       <find>wall</find>
+      <find>getCity</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -112,8 +98,6 @@
         <option value="$PROJECT_DIR$/src/main/java/ConCat.java" />
         <option value="$PROJECT_DIR$/src/main/java/Enums.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestConCat.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestCityWithPopulation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CityWithPopulation.java" />
         <option value="$PROJECT_DIR$/src/main/java/Country.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestMapBully.java" />
         <option value="$PROJECT_DIR$/src/main/java/MapBully.java" />
@@ -126,6 +110,8 @@
         <option value="$PROJECT_DIR$/src/main/java/MakeBricks.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestMakeBricks.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/CityWithPopulation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCityWithPopulation.java" />
       </list>
     </option>
   </component>
@@ -156,6 +142,37 @@
             <path>
               <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding Bat Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestMakeBricks.testMakeBricksAll">
+  <component name="RunManager" selected="JUnit.TestCityWithPopulation.testCitiesFromTopToBottom">
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -210,18 +227,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All in selenium-app" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium-app" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -239,11 +244,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArrayFix34.TestArrayFix34BasedOnProvidedData1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCityWithPopulation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium-app" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestArrayFix34" />
-      <option name="METHOD_NAME" value="TestArrayFix34BasedOnProvidedData1" />
+      <option name="MAIN_CLASS_NAME" value="TestCityWithPopulation" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCityWithPopulation.testCitiesFromBootomToTop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-app" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCityWithPopulation" />
+      <option name="METHOD_NAME" value="testCitiesFromBootomToTop" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCityWithPopulation.testCitiesFromTopToBottom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-app" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCityWithPopulation" />
+      <option name="METHOD_NAME" value="testCitiesFromTopToBottom" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
@@ -259,19 +291,6 @@
       <option name="MAIN_CLASS_NAME" value="TestMakeBricks" />
       <option name="METHOD_NAME" value="testMakeBricksAll" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestWordCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium-app" />
-      <option name="PACKAGE_NAME" value="com.selenium.test" />
-      <option name="MAIN_CLASS_NAME" value="TestWordCount" />
-      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
@@ -313,11 +332,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestCityWithPopulation.testCitiesFromTopToBottom" />
+        <item itemvalue="JUnit.TestCityWithPopulation" />
+        <item itemvalue="JUnit.TestCityWithPopulation.testCitiesFromBootomToTop" />
         <item itemvalue="JUnit.TestMakeBricks.testMakeBricksAll" />
         <item itemvalue="JUnit.TestArrayFix34" />
-        <item itemvalue="JUnit.TestArrayFix34.TestArrayFix34BasedOnProvidedData1" />
-        <item itemvalue="JUnit.All in selenium-app" />
-        <item itemvalue="JUnit.TestWordCount" />
       </list>
     </recent_temporary>
   </component>
@@ -338,35 +357,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestArrayFix34_TestArrayFix34BasedOnProvidedData1 - 2020.04.16 at 16h 19m 01s.xml">
-      <configuration name="TestArrayFix34.TestArrayFix34BasedOnProvidedData1" configurationId="JUnit" />
+    <history-entry file="TestCityWithPopulation_testCitiesFromBootomToTop - 2020.05.05 at 14h 50m 26s.xml">
+      <configuration name="TestCityWithPopulation.testCitiesFromBootomToTop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestArrayFix34_TestArrayFix34BasedOnProvidedData1 - 2020.04.16 at 16h 19m 23s.xml">
-      <configuration name="TestArrayFix34.TestArrayFix34BasedOnProvidedData1" configurationId="JUnit" />
+    <history-entry file="TestCityWithPopulation_testCitiesFromBootomToTop - 2020.05.05 at 14h 51m 19s.xml">
+      <configuration name="TestCityWithPopulation.testCitiesFromBootomToTop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestArrayFix34_TestArrayFix34BasedOnProvidedData1 - 2020.04.16 at 16h 20m 10s.xml">
-      <configuration name="TestArrayFix34.TestArrayFix34BasedOnProvidedData1" configurationId="JUnit" />
+    <history-entry file="TestCityWithPopulation_testCitiesFromBootomToTop - 2020.05.05 at 14h 52m 58s.xml">
+      <configuration name="TestCityWithPopulation.testCitiesFromBootomToTop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestArrayFix34_TestArrayFix34BasedOnProvidedData1 - 2020.04.16 at 16h 20m 34s.xml">
-      <configuration name="TestArrayFix34.TestArrayFix34BasedOnProvidedData1" configurationId="JUnit" />
+    <history-entry file="TestCityWithPopulation_testCitiesFromBootomToTop - 2020.05.05 at 14h 54m 01s.xml">
+      <configuration name="TestCityWithPopulation.testCitiesFromBootomToTop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestArrayFix34_TestArrayFix34BasedOnProvidedData1 - 2020.04.16 at 16h 23m 23s.xml">
-      <configuration name="TestArrayFix34.TestArrayFix34BasedOnProvidedData1" configurationId="JUnit" />
+    <history-entry file="TestCityWithPopulation_testCitiesFromBootomToTop - 2020.05.05 at 14h 54m 31s.xml">
+      <configuration name="TestCityWithPopulation.testCitiesFromBootomToTop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestArrayFix34_TestArrayFix34BasedOnProvidedData1 - 2020.04.16 at 16h 24m 42s.xml">
-      <configuration name="TestArrayFix34.TestArrayFix34BasedOnProvidedData1" configurationId="JUnit" />
+    <history-entry file="TestCityWithPopulation - 2020.05.05 at 14h 54m 44s.xml">
+      <configuration name="TestCityWithPopulation" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestArrayFix34_TestArrayFix34BasedOnProvidedData1 - 2020.04.16 at 16h 25m 38s.xml">
-      <configuration name="TestArrayFix34.TestArrayFix34BasedOnProvidedData1" configurationId="JUnit" />
+    <history-entry file="TestCityWithPopulation_testCitiesFromTopToBottom - 2020.05.05 at 14h 55m 50s.xml">
+      <configuration name="TestCityWithPopulation.testCitiesFromTopToBottom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestArrayFix34 - 2020.04.16 at 16h 26m 05s.xml">
-      <configuration name="TestArrayFix34" configurationId="JUnit" />
+    <history-entry file="TestCityWithPopulation - 2020.05.05 at 14h 55m 56s.xml">
+      <configuration name="TestCityWithPopulation" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestArrayFix34 - 2020.04.16 at 16h 26m 15s.xml">
-      <configuration name="TestArrayFix34" configurationId="JUnit" />
+    <history-entry file="TestCityWithPopulation - 2020.05.05 at 14h 56m 15s.xml">
+      <configuration name="TestCityWithPopulation" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMakeBricks_testMakeBricksAll - 2020.04.16 at 16h 32m 30s.xml">
-      <configuration name="TestMakeBricks.testMakeBricksAll" configurationId="JUnit" />
+    <history-entry file="TestCityWithPopulation_testCitiesFromTopToBottom - 2020.05.05 at 14h 57m 02s.xml">
+      <configuration name="TestCityWithPopulation.testCitiesFromTopToBottom" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -393,11 +412,11 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32795697" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32772276" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32871014" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32772276" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32772276" />
       <window_info anchor="bottom" id="IDEtalk Messages" order="8" />
       <window_info anchor="bottom" id="Changes" order="9" />
@@ -416,7 +435,7 @@
       <window_info anchor="right" id="Maven" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" id="Coverage" order="11" side_tool="true" visible="true" weight="0.1898285" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" visible="true" weight="0.33226836" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -431,56 +450,21 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/CityWithPopulation.java</url>
-          <line>13</line>
+          <url>file://$PROJECT_DIR$/src/test/java/TestCityWithPopulation.java</url>
+          <line>20</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/selenium_app$TestCityWithPopulation.ic" NAME="TestCityWithPopulation Coverage Results" MODIFIED="1587033493098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/selenium_app$TestCityWithPopulation.ic" NAME="TestCityWithPopulation Coverage Results" MODIFIED="1588678898839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/test/configuration/TestsConfig.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/testng/tests/SimpleTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Enums.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestConCat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StartWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ConCat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MapBully.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestMapBully.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-195">
-          <caret line="4" column="25" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/TestWordCount.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/testng/listeners/ScreenShotOnFailListener.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/testng/tests/PageObjectTest.java" />
@@ -492,41 +476,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WordCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestCityWithPopulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CityWithPopulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Country.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestStartWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -534,52 +483,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="147" column="25" selection-start-line="147" selection-start-column="25" selection-end-line="147" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayFix34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MakeBricks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestMakeBricks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestArrayFix34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -597,6 +504,139 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium-app.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StartWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MapBully.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MakeBricks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestStartWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestMapBully.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestMakeBricks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayFix34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestArrayFix34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/runners/statements/RunBefores.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestConCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CityWithPopulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestCityWithPopulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

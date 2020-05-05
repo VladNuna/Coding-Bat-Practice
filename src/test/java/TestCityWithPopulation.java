@@ -3,6 +3,8 @@ import org.junit.Before;
 import org.junit.Test;
 import org.testng.annotations.BeforeTest;
 
+import java.util.ArrayList;
+
 public class TestCityWithPopulation {
 
 
@@ -15,14 +17,13 @@ public class TestCityWithPopulation {
 
     @Test
     public void testCitiesFromTopToBottom(){
-        cityWithPopulation.printCitiesFromTopBottom();
-        Assert.assertTrue(true);
-
+        ArrayList<Country> topToBottomCitiesList = cityWithPopulation.printAndGetCitiesFromTopBottom();
+        Assert.assertEquals(cityWithPopulation.cities.get(0), topToBottomCitiesList.get(0));
     }
 
     @Test
     public void testCitiesFromBootomToTop(){
-        cityWithPopulation.printCitiesFromBottomTop();
-        Assert.assertTrue(true);
+        ArrayList<Country> bottomToTopCitiesList = cityWithPopulation.printAndGetCitiesFromBottomTop();
+        Assert.assertEquals(cityWithPopulation.cities.get(bottomToTopCitiesList.size() - 1), bottomToTopCitiesList.get(0));
     }
 }
