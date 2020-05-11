@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c33a66eb-5114-40f1-93e6-ef810c70e4b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Copies3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestCopies3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RightDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestRightDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="selenium-app.iws" />
@@ -36,46 +36,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestArrayFix34.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="5" selection-start-line="7" selection-start-column="3" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ArrayFix34.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/NextSmallestElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestNextSmallestElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ElementDouble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="61" lean-forward="true" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+            <state relative-caret-position="60">
+              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -92,17 +56,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestDoubleElementList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="90">
+              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="27" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestCopies3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/RightDigit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestCopies3.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestRightDigit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="135">
+              <caret line="9" column="78" lean-forward="true" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -159,6 +141,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/selenium/Copies3.java" />
         <option value="$PROJECT_DIR$/src/main/java/Copies3.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestCopies3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RightDigit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestRightDigit.java" />
       </list>
     </option>
   </component>
@@ -405,15 +389,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCityWithPopulation - 2020.05.05 at 14h 56m 15s.xml">
-      <configuration name="TestCityWithPopulation" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCityWithPopulation_testCitiesFromTopToBottom - 2020.05.05 at 14h 57m 02s.xml">
-      <configuration name="TestCityWithPopulation.testCitiesFromTopToBottom" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCityWithPopulation_testLuminitasCode - 2020.05.08 at 16h 25m 00s.xml">
-      <configuration name="TestCityWithPopulation.testLuminitasCode" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestNextSmallestElement_TestNextSmallestElementBasedOnProvidedData1 - 2020.05.11 at 11h 26m 59s.xml">
       <configuration name="TestNextSmallestElement.TestNextSmallestElementBasedOnProvidedData1" configurationId="JUnit" />
     </history-entry>
@@ -435,6 +410,15 @@
     <history-entry file="TestCopies3 - 2020.05.11 at 13h 22m 10s.xml">
       <configuration name="TestCopies3" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestCopies3 - 2020.05.11 at 14h 46m 19s.xml">
+      <configuration name="TestCopies3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCopies3 - 2020.05.11 at 14h 46m 26s.xml">
+      <configuration name="TestCopies3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCopies3 - 2020.05.11 at 14h 46m 33s.xml">
+      <configuration name="TestCopies3" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="61000" />
@@ -450,6 +434,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="23" width="1920" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20979765" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -716,13 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ElementDouble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="61" lean-forward="true" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestNextSmallestElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -744,10 +722,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestDoubleElementList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ElementDouble.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="60">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RightDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -755,6 +740,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestDoubleElementList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestRightDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="78" lean-forward="true" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
         </state>
       </provider>
     </entry>
