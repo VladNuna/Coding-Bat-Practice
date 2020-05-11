@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c33a66eb-5114-40f1-93e6-ef810c70e4b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NoLong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNoLong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Two2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/RightDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RightDigit.java" afterDir="false" />
     </list>
     <ignored path="selenium-app.iws" />
@@ -26,20 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestNoLong.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Country.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="25" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="25" />
+            <state relative-caret-position="90">
+              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -83,8 +73,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/RightDigit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Two2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestTwo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -160,9 +168,10 @@
         <option value="$PROJECT_DIR$/src/main/java/Copies3.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestCopies3.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestRightDigit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RightDigit.java" />
         <option value="$PROJECT_DIR$/src/main/java/NoLong.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestNoLong.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RightDigit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Two2.java" />
       </list>
     </option>
   </component>
@@ -266,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestNoLong">
+  <component name="RunManager" selected="JUnit.TestTwo2">
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -296,33 +305,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDoubleElementList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium-app" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestDoubleElementList" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDoubleElementList.TestElementDoubleBasedOnProvidedDataUsingForLoop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenium-app" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestDoubleElementList" />
-      <option name="METHOD_NAME" value="TestElementDoubleBasedOnProvidedDataUsingForLoop" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestNoLong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium-app" />
       <option name="PACKAGE_NAME" value="" />
@@ -341,6 +323,33 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestNoLong" />
       <option name="METHOD_NAME" value="TestNoLongBasedOnProvidedData1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTwo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-app" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTwo2" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTwo2.TestTwo2BasedOnProvidedData1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-app" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTwo2" />
+      <option name="METHOD_NAME" value="TestTwo2BasedOnProvidedData1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
@@ -383,11 +392,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestTwo2" />
+        <item itemvalue="JUnit.TestTwo2.TestTwo2BasedOnProvidedData1" />
         <item itemvalue="JUnit.TestNoLong" />
         <item itemvalue="JUnit.TestNoLong.TestNoLongBasedOnProvidedData1" />
         <item itemvalue="JUnit.TestCopies3" />
-        <item itemvalue="JUnit.TestDoubleElementList" />
-        <item itemvalue="JUnit.TestDoubleElementList.TestElementDoubleBasedOnProvidedDataUsingForLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -408,12 +417,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestNextSmallestElement_TestNextSmallestElementBasedOnProvidedData1 - 2020.05.11 at 11h 26m 59s.xml">
-      <configuration name="TestNextSmallestElement.TestNextSmallestElementBasedOnProvidedData1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestNextSmallestElement_TestNextSmallestElementBasedOnProvidedData1 - 2020.05.11 at 11h 27m 06s.xml">
-      <configuration name="TestNextSmallestElement.TestNextSmallestElementBasedOnProvidedData1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestDoubleElementList - 2020.05.11 at 12h 12m 13s.xml">
       <configuration name="TestDoubleElementList" configurationId="JUnit" />
     </history-entry>
@@ -437,6 +440,12 @@
     </history-entry>
     <history-entry file="TestCopies3 - 2020.05.11 at 14h 46m 33s.xml">
       <configuration name="TestCopies3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestNoLong_TestNoLongBasedOnProvidedData1 - 2020.05.11 at 15h 03m 29s.xml">
+      <configuration name="TestNoLong.TestNoLongBasedOnProvidedData1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestNoLong - 2020.05.11 at 15h 03m 37s.xml">
+      <configuration name="TestNoLong" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -748,13 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RightDigit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ElementDouble.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -785,8 +787,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestNoLong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="90">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RightDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Two2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestTwo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
