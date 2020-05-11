@@ -11,7 +11,7 @@ public class RightDigit {
      * rightDigit([10, 0]) → [0, 0]
      *
      * @param nums The list of intiger numbers that needs to be processed
-     * @return The actual list based pm tje givven context
+     * @return The actual list based on the given contex (right most digit)
      */
 
 
